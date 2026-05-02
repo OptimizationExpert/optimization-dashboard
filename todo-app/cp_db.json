@@ -439,5 +439,152 @@
     "title": "Beyond Chatbots: How I Used CrewAI + OR-Tools to Crack the Vehicle Routing Problem",
     "link": "https://medium.com/@poojithagowthaman24/beyond-chatbots-how-i-used-crewai-or-tools-to-crack-the-vehicle-routing-problem-5546c474186d?source=rss------operations_research-5",
     "score": 9
+  },
+  {
+    "id": "http://arxiv.org/abs/1612.01691v1",
+    "type": "paper",
+    "title": "Fleet Size and Mix Split-Delivery Vehicle Routing",
+    "link": "https://arxiv.org/abs/1612.01691v1",
+    "score": 11
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.11981v4",
+    "type": "paper",
+    "title": "Parallel Batch Scheduling With Incompatible Job Families Via Constraint Programming",
+    "link": "https://arxiv.org/abs/2410.11981v4",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2504.08793v2",
+    "type": "paper",
+    "title": "Constraint Programming Models For Serial Batch Scheduling With Minimum Batch Size",
+    "link": "https://arxiv.org/abs/2504.08793v2",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2307.02980v1",
+    "type": "paper",
+    "title": "Constraint Programming models for the parallel drone scheduling vehicle routing problem",
+    "link": "https://arxiv.org/abs/2307.02980v1",
+    "score": 10
+  },
+  {
+    "id": "http://arxiv.org/abs/2502.13483v1",
+    "type": "paper",
+    "title": "PyJobShop: Solving scheduling problems with constraint programming in Python",
+    "link": "https://arxiv.org/abs/2502.13483v1",
+    "score": 16
+  },
+  {
+    "id": "http://arxiv.org/abs/1902.04627v1",
+    "type": "paper",
+    "title": "Time-aware Test Case Execution Scheduling for Cyber-Physical Systems",
+    "link": "https://arxiv.org/abs/1902.04627v1",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/1910.13513v1",
+    "type": "paper",
+    "title": "A new constraint programming model and a linear programming-based adaptive large neighborhood search for the vehicle routing problem with synchronization constraints",
+    "link": "https://arxiv.org/abs/1910.13513v1",
+    "score": 7
+  },
+  {
+    "id": "http://arxiv.org/abs/2307.03523v1",
+    "type": "paper",
+    "title": "Parallel drone scheduling vehicle routing problems with collective drones",
+    "link": "https://arxiv.org/abs/2307.03523v1",
+    "score": 10
+  },
+  {
+    "id": "http://arxiv.org/abs/2311.05438v1",
+    "type": "paper",
+    "title": "A branch-and-price approach for the nurse rostering problem with multiple units",
+    "link": "https://arxiv.org/abs/2311.05438v1",
+    "score": 10
+  },
+  {
+    "id": "http://arxiv.org/abs/cs/0211019v1",
+    "type": "paper",
+    "title": "Schedulers for Rule-based Constraint Programming",
+    "link": "https://arxiv.org/abs/cs/0211019v1",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/1902.01193v1",
+    "type": "paper",
+    "title": "Solving Nurse Scheduling Problem Using Constraint Programming Technique",
+    "link": "https://arxiv.org/abs/1902.01193v1",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2402.00459v1",
+    "type": "paper",
+    "title": "Genetic-based Constraint Programming for Resource Constrained Job Scheduling",
+    "link": "https://arxiv.org/abs/2402.00459v1",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/1109.5920v1",
+    "type": "paper",
+    "title": "Models and Strategies for Variants of the Job Shop Scheduling Problem",
+    "link": "https://arxiv.org/abs/1109.5920v1",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/1505.02487v1",
+    "type": "paper",
+    "title": "A Constraint Programming Approach for Non-Preemptive Evacuation Scheduling",
+    "link": "https://arxiv.org/abs/1505.02487v1",
+    "score": 7
+  },
+  {
+    "id": "http://arxiv.org/abs/1805.11375v1",
+    "type": "paper",
+    "title": "Automating Personnel Rostering by Learning Constraints Using Tensors",
+    "link": "https://arxiv.org/abs/1805.11375v1",
+    "score": 9
+  },
+  {
+    "id": "http://arxiv.org/abs/2409.09107v4",
+    "type": "paper",
+    "title": "Proactive and Reactive Constraint Programming for Stochastic Project Scheduling with Maximal Time-Lags",
+    "link": "https://arxiv.org/abs/2409.09107v4",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/1510.03317v1",
+    "type": "paper",
+    "title": "The Inductive Constraint Programming Loop",
+    "link": "https://arxiv.org/abs/1510.03317v1",
+    "score": 7
+  },
+  {
+    "id": "http://arxiv.org/abs/2006.13064v2",
+    "type": "paper",
+    "title": "Mixed Integer Linear Programming and Constraint Programming Models for the Online Printing Shop Scheduling Problem",
+    "link": "https://arxiv.org/abs/2006.13064v2",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/1911.04766v4",
+    "type": "paper",
+    "title": "Investigating Constraint Programming and Hybrid Methods for Real World Industrial Test Laboratory Scheduling",
+    "link": "https://arxiv.org/abs/1911.04766v4",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2305.19888v1",
+    "type": "paper",
+    "title": "Constraint Programming and Constructive Heuristics for Parallel Machine Scheduling with Sequence-Dependent Setups and Common Servers",
+    "link": "https://arxiv.org/abs/2305.19888v1",
+    "score": 6
+  },
+  {
+    "id": "https://medium.com/@poojithagowthaman24/beyond-chatbots-how-i-used-crewai-or-tools-to-crack-the-vehicle-routing-problem-5546c474186d?source=rss------operations_research-5",
+    "type": "medium",
+    "title": "Beyond Chatbots: How I Used CrewAI + OR-Tools to Crack the Vehicle Routing Problem",
+    "link": "https://medium.com/@poojithagowthaman24/beyond-chatbots-how-i-used-crewai-or-tools-to-crack-the-vehicle-routing-problem-5546c474186d?source=rss------operations_research-5",
+    "score": 9
   }
 ]

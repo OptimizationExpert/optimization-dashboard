@@ -19,8 +19,8 @@ MEDIUM_FEEDS = [
 
 DB_FILE = "cp_db.json"
 
-#BOT_TOKEN = os.environ["BOT_TOKEN"]
-#CHAT_ID = os.environ["CHAT_ID"]
+# BOT_TOKEN = os.environ["BOT_TOKEN"]
+# CHAT_ID = os.environ["CHAT_ID"]
 BOT_TOKEN = "8621241050:AAH_KM4oGAcRZD2yLLzsHZDffucZ58NBUZo"
 CHAT_ID = "107917903"
 
@@ -33,14 +33,18 @@ KEYWORDS = {
     "scheduling": 3,
     "rostering": 3,
     "constraint programming": 3,
-    "optimization": 1
+    "optimization": 1,
+    "soroudi": 1,
+
 }
+
 
 # ================= CORE ================= #
 
 def score(text):
     text = text.lower()
     return sum(w for k, w in KEYWORDS.items() if k in text)
+
 
 def classify(text):
     text = text.lower()
@@ -53,19 +57,25 @@ def classify(text):
 
     if "cp-sat" in text or "or-tools" in text or "constraint programming" in text:
         return "CP-SAT"
-
+    
+    if "ortools" in text or "cp_model" in text:
+        return "CP-SAT"
     return "Other"
+
 
 def load_db():
     if not os.path.exists(DB_FILE):
         return []
     return json.load(open(DB_FILE))
 
+
 def save_db(db):
     json.dump(db, open(DB_FILE, "w"), indent=2)
 
+
 def is_new(item, db):
     return item["id"] not in {x["id"] for x in db}
+
 
 # ================= SOURCES ================= #
 
@@ -96,6 +106,7 @@ def fetch_arxiv():
 
     return out
 
+
 def fetch_github():
     url = f"https://api.github.com/search/repositories?q={GITHUB_QUERY}&sort=updated"
     r = requests.get(url)
@@ -117,6 +128,7 @@ def fetch_github():
 
     return out
 
+
 def fetch_medium():
     out = []
 
@@ -127,10 +139,10 @@ def fetch_medium():
             text = e.title + " " + e.summary
 
             if (
-                "or-tools" in text.lower()
-                or "cp-sat" in text.lower()
-                or "vehicle routing" in text.lower()
-                or "scheduling" in text.lower()
+                    "or-tools" in text.lower()
+                    or "cp-sat" in text.lower()
+                    or "vehicle routing" in text.lower()
+                    or "scheduling" in text.lower()
             ):
                 s = score(text)
 
@@ -145,6 +157,7 @@ def fetch_medium():
 
     return out
 
+
 # ================= TELEGRAM ================= #
 
 def send_telegram(message):
@@ -156,6 +169,7 @@ def send_telegram(message):
         "parse_mode": "HTML",
         "disable_web_page_preview": True
     })
+
 
 # ================= FORMAT ================= #
 
@@ -185,6 +199,7 @@ def build_message(items):
 
     return msg
 
+
 # ================= MAIN ================= #
 
 def main():
@@ -208,6 +223,7 @@ def main():
         save_db(db)
 
     print("Done:", datetime.now())
+
 
 # ================= RUN ================= #
 

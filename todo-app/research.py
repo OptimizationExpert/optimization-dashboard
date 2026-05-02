@@ -1,26 +1,27 @@
 # cp_monitor.py
 
-import requests
-import feedparser
 import json
 import os
-from datetime import datetime
-import feedparser
 from urllib.parse import urlencode
+
+import feedparser
+import requests
+
 # ---------------- CONFIG ---------------- #
 
 ARXIV_QUERY = """
 ("constraint programming" OR "cp-sat")
-AND (scheduling OR "vehicle routing" OR rostering OR logistics)
+AND (scheduling OR "vehicle routing" OR rostering OR logistics OR transportation OR puzzle)
 """
 MEDIUM_FEEDS = [
     "https://medium.com/feed/tag/operations-research",
     "https://medium.com/feed/tag/optimization",
     "https://medium.com/feed/tag/supply-chain",
     "https://medium.com/feed/tag/mathematical-optimization"
+    "https://medium.com/feed/tag/constraint-programming"
 ]
 GITHUB_QUERY = """
-OR-Tools CP-SAT vehicle routing scheduling optimization
+OR-Tools CP-SAT vehicle routing scheduling optimization ortools cp_model drone scheduling
 """
 DB_FILE = "cp_monitor_db.json"
 
@@ -36,7 +37,10 @@ KEYWORDS = {
     "constraint programming": 3,
     "milp": 1,
     "optimization": 1,
-    "LLM": -10
+    "LLM": -10,
+    "soroudi": 100,
+    "orms": 3,
+
 }
 
 # ---------------- UTILS ---------------- #
