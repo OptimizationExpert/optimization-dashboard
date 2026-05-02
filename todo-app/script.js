@@ -1,4 +1,3 @@
-name=script.js
 // To-Do List Application with Local Storage
 class TodoApp {
     constructor() {
