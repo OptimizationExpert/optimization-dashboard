@@ -35,7 +35,8 @@ KEYWORDS = {
     "rostering": 3,
     "constraint programming": 3,
     "milp": 1,
-    "optimization": 1
+    "optimization": 1,
+    "LLM": -10
 }
 
 # ---------------- UTILS ---------------- #
@@ -79,7 +80,7 @@ def fetch_arxiv():
         text = entry.title + " " + entry.summary
         s = score(text)
 
-        if s >= 4:
+        if s >= 5:
             results.append({
                 "id": entry.id,
                 "type": "paper",
@@ -102,7 +103,7 @@ def fetch_github():
         text = (repo.get("description") or "") + repo["name"]
         s = score(text)
 
-        if s >= 4:
+        if s >= 5:
             results.append({
                 "id": repo["html_url"],
                 "type": "repo",
