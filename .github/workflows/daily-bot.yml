@@ -1,0 +1,35 @@
+name: Daily Optimization Research Bot
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # runs every day at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install arxiv
+
+      - name: Run daily bot
+        run: |
+          python bot/daily_bot.py
+
+      - name: Commit results
+        run: |
+          git config user.name "optimization-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/items.json
+          git commit -m "Daily optimization research update" || echo "No changes"
+          git push
