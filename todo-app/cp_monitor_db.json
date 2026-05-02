@@ -1,0 +1,37 @@
+[
+  {
+    "id": "http://arxiv.org/abs/1612.01691v1",
+    "type": "paper",
+    "title": "Fleet Size and Mix Split-Delivery Vehicle Routing",
+    "link": "https://arxiv.org/abs/1612.01691v1",
+    "score": 11
+  },
+  {
+    "id": "http://arxiv.org/abs/2307.02980v1",
+    "type": "paper",
+    "title": "Constraint Programming models for the parallel drone scheduling vehicle routing problem",
+    "link": "https://arxiv.org/abs/2307.02980v1",
+    "score": 10
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.11981v4",
+    "type": "paper",
+    "title": "Parallel Batch Scheduling With Incompatible Job Families Via Constraint Programming",
+    "link": "https://arxiv.org/abs/2410.11981v4",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2504.08793v2",
+    "type": "paper",
+    "title": "Constraint Programming Models For Serial Batch Scheduling With Minimum Batch Size",
+    "link": "https://arxiv.org/abs/2504.08793v2",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2003.08598v1",
+    "type": "paper",
+    "title": "Train Scheduling with Hybrid Answer Set Programming",
+    "link": "https://arxiv.org/abs/2003.08598v1",
+    "score": 4
+  }
+]
