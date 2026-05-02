@@ -9,9 +9,19 @@ import feedparser
 from urllib.parse import urlencode
 # ---------------- CONFIG ---------------- #
 
-ARXIV_QUERY = "cp-sat OR constraint programming OR vehicle routing OR scheduling OR Task Scheduling OR MILP Transportation OR Symmetry Breaking in Optimization"
-GITHUB_QUERY = "constraint programming OR-Tools scheduling VRP"
-
+ARXIV_QUERY = """
+("constraint programming" OR "cp-sat")
+AND (scheduling OR "vehicle routing" OR rostering OR logistics)
+"""
+MEDIUM_FEEDS = [
+    "https://medium.com/feed/tag/operations-research",
+    "https://medium.com/feed/tag/optimization",
+    "https://medium.com/feed/tag/supply-chain",
+    "https://medium.com/feed/tag/mathematical-optimization"
+]
+GITHUB_QUERY = """
+OR-Tools CP-SAT vehicle routing scheduling optimization
+"""
 DB_FILE = "cp_monitor_db.json"
 
 # Industrial CP keywords (weighted)
@@ -103,6 +113,36 @@ def fetch_github():
 
     return results
 
+# ---------------- MEDIUM ---------------- #
+
+def fetch_medium():
+    results = []
+
+    for url in MEDIUM_FEEDS:
+        feed = feedparser.parse(url)
+
+        for entry in feed.entries[:15]:
+            text = entry.title + " " + entry.summary
+
+            s = score(text)
+
+            # Medium is noisy → stricter filtering
+            if s >= 5 and (
+                "or-tools" in text.lower()
+                or "cp-sat" in text.lower()
+                or "vehicle routing" in text.lower()
+                or "scheduling" in text.lower()
+                or "optimization" in text.lower()
+            ):
+                results.append({
+                    "id": entry.link,
+                    "type": "medium",
+                    "title": entry.title,
+                    "link": entry.link,
+                    "score": s
+                })
+
+    return results
 # ---------------- MAIN ---------------- #
 
 def main():
@@ -113,6 +153,7 @@ def main():
     items = []
     items += fetch_arxiv()
     items += fetch_github()
+    items += fetch_medium()
 
     # 👇 ADD THIS BLOCK
     print(f"\n📊 Total fetched items: {len(items)}\n")
