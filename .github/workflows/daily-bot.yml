@@ -1,8 +1,11 @@
 name: Daily Optimization Research Bot
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
-    - cron: "0 6 * * *"   # runs every day at 06:00 UTC
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,12 +22,10 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install arxiv
+        run: pip install arxiv
 
       - name: Run daily bot
-        run: |
-          python bot/daily_bot.py
+        run: python bot/daily_bot.py
 
       - name: Commit results
         run: |
