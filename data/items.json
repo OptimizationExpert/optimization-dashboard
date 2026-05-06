@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-05-04T08:23:37.799886",
+  "generated_at": "2026-05-06T08:17:08.888109",
   "items": [
     {
-      "title": "Reliability, Robustness, and Resilience Modeling for Surveillance System in Advanced Air Mobility Operations",
-      "url": "http://arxiv.org/abs/2605.00823v1",
-      "published": "2026-05-01",
-      "summary": "Ensuring the safe and efficient operation of Advanced Air Mobility (AAM) in low-altitude airspace requires a reliable, robust, and resilient surveillance system capable of continuously detecting, identifying, and tracking aircraft under both normal and off-nominal conditions. To address this need, t",
+      "title": "Sequential vs. Simultaneous Entanglement Swapping under Optimal Link-Layer Control",
+      "url": "http://arxiv.org/abs/2605.04047v1",
+      "published": "2026-05-05",
+      "summary": "Connection-less, packet-switched quantum network architectures distribute entanglement across multi-hop paths through sequential entanglement swapping, in which each node acts on purely local state information. The architectural advantages over the connection-oriented alternative -- simultaneous SWA",
       "source": "arXiv"
     },
     {
-      "title": "Optimization of Weak Lensing Lightcone Simulations for Higher-Order Statistics in the LSST era",
-      "url": "http://arxiv.org/abs/2605.00821v1",
-      "published": "2026-05-01",
-      "summary": "We present a framework for generating lightcone simulations tailored to the analysis of Stage-IV cosmic shear data using Higher-Order Statistics (HOS). We revisit key design choices from previous simulation campaigns and re-optimize several internal parameters, benchmarking accuracy through changes ",
+      "title": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification",
+      "url": "http://arxiv.org/abs/2605.04046v1",
+      "published": "2026-05-05",
+      "summary": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth; $\\leq 5$ choices each). A cover-theoretic core (Lebesgue-number criterion on the landmark cover) yi",
       "source": "arXiv"
     },
     {
-      "title": "HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
-      "url": "http://arxiv.org/abs/2605.00820v1",
-      "published": "2026-05-01",
-      "summary": "We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way. Rather than learning a monolithic map, HyCOP learns a policy over short programs - which module to",
+      "title": "Audio-Visual Intelligence in Large Foundation Models",
+      "url": "http://arxiv.org/abs/2605.04045v1",
+      "published": "2026-05-05",
+      "summary": "Audio-Visual Intelligence (AVI) has emerged as a central frontier in artificial intelligence, bridging auditory and visual modalities to enable machines that can perceive, generate, and interact in the multimodal real world. In the era of large foundation models, joint modeling of audio and vision h",
       "source": "arXiv"
     },
     {
-      "title": "W-boson helicity fractions in top decay as probes of dimension-6 and dimension-8 SMEFT operators",
-      "url": "http://arxiv.org/abs/2605.00819v1",
-      "published": "2026-05-01",
-      "summary": "Precision measurements of top-quark decays provide powerful probes of physics beyond the Standard Model (SM). While the impact of dimension-6 operators in the SM Effective Field Theory (SMEFT) has been extensively studied, the role of dimension-8 contributions remains largely unexplored, despite the",
+      "title": "Kazhdan-Lusztig polynomials of Dowling geometries",
+      "url": "http://arxiv.org/abs/2605.04043v1",
+      "published": "2026-05-05",
+      "summary": "We give a concrete combinatorial interpretation of the coefficients of the Kazhdan-Lusztig polynomials of Dowling geometries, a family of matroids which generalizes braid matroids of types A and B. Furthermore, we interpret the coefficients of the equivariant Kazhdan-Lusztig polynomials and the equi",
       "source": "arXiv"
     },
     {
-      "title": "Probability Distribution Analysis of the Cascaded Variational Quantum Eigensolver",
-      "url": "http://arxiv.org/abs/2605.00807v1",
-      "published": "2026-05-01",
-      "summary": "The cascaded variational quantum eigensolver (CVQE) circumvents the need for iterative communication between the quantum and classical processing units that is necessary in the conventional VQE algorithm. While CVQE offers complete freedom to choose the guiding state as input, not all guiding states",
+      "title": "Ergotropy Protection via Cavity Detuning in Collective Open Quantum Batteries",
+      "url": "http://arxiv.org/abs/2605.04042v1",
+      "published": "2026-05-05",
+      "summary": "This study investigates the performance and ergotropy protection of open collective quantum batteries subject to superradiant decay. By employing a passive spectral detuning strategy within an intermediate cavity, an optimal detuning value ($\u0394^*$) is analytically derived and numerically verified to ",
       "source": "arXiv"
     },
     {
-      "title": "Prop-Chromeleon: Adaptive Haptic Props in Mixed Reality through Generative Artificial Intelligence",
-      "url": "http://arxiv.org/abs/2605.00804v1",
-      "published": "2026-05-01",
-      "summary": "Mixed Reality (MR) aims to blend digital and physical worlds, but the absence of haptic feedback often breaks visual-tactile consistency. We introduce Prop-Chromeleon, a MR system based on generative artificial intelligence (AI) that dynamically transforms everyday objects into adaptive passive hapt",
+      "title": "Large Language Models are Universal Reasoners for Visual Generation",
+      "url": "http://arxiv.org/abs/2605.04040v1",
+      "published": "2026-05-05",
+      "summary": "Text-to-image generation has advanced rapidly with diffusion models, progressing from CLIP and T5 conditioning to unified systems where a single LLM backbone handles both visual understanding and generation. Despite the architectural unification, these systems frequently fail to faithfully align com",
       "source": "arXiv"
     },
     {
-      "title": "Determination of Density Functional Tight Binding Models for Cerium Allotropes",
-      "url": "http://arxiv.org/abs/2605.00802v1",
-      "published": "2026-05-01",
-      "summary": "We have developed Density Functional Tight Binding (DFTB) models for cerium that accurately predict both the electronic band structure and energetic ordering of different allotropes. We show that global optimization of the electronic confining potentials minimize the errors in the predicted Kohn-Sha",
+      "title": "Model order reduction for parametrized variational inequalities: application to crowd motion",
+      "url": "http://arxiv.org/abs/2605.04037v1",
+      "published": "2026-05-05",
+      "summary": "This work investigates model order reduction for time-dependent parametrized variational inequalities, with a focus on discrete contact problems. As a prototypical example, we consider an agent-based crowd model [Maury et al., 2011] in which agent velocities are obtained at each time step from a con",
       "source": "arXiv"
     },
     {
-      "title": "RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution",
-      "url": "http://arxiv.org/abs/2605.00798v1",
-      "published": "2026-05-01",
-      "summary": "Humans solve problems by executing targeted plans, yet large language models (LLMs) remain unreliable for structured workflow execution. We propose RunAgent, a multi-agent plan execution platform that interprets natural-language plans while enforcing stepwise execution through constraints and rubric",
+      "title": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
+      "url": "http://arxiv.org/abs/2605.04035v1",
+      "published": "2026-05-05",
+      "summary": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture that compresses input views into a compact latent representation. This latent representation is then",
       "source": "arXiv"
     },
     {
-      "title": "Compactness of weighted Sobolev trace operators and non-linear Steklov problems",
-      "url": "http://arxiv.org/abs/2605.00795v1",
-      "published": "2026-05-01",
-      "summary": "We prove the compactness of weighted Sobolev trace operators in outward cuspidal domains by using composition operators on Sobolev spaces. This result allows us to formulate the non-linear Steklov problem in outward cuspidal domains in a correct functional setting and to establish the existence of i",
+      "title": "Holographic Derivation of BPZ-Type Null State Equations in Higher Dimensional CFTs",
+      "url": "http://arxiv.org/abs/2605.04032v1",
+      "published": "2026-05-05",
+      "summary": "A set of linear differential equations was recently put forward as higher-dimensional generalizations of the BPZ null-state equations in two-dimensional CFTs at large central charge. In this work, we derive these higher-dimensional equations from gravity, based on the AdS/CFT correspondence. A near-",
       "source": "arXiv"
     },
     {
-      "title": "Quantum Simulation of Differential-Algebraic Equations with Applications to Unsteady Stokes Flow",
-      "url": "http://arxiv.org/abs/2605.00794v1",
-      "published": "2026-05-01",
-      "summary": "Differential-algebraic equations (DAEs) arise naturally in constrained dynamical systems, but their algebraic constraints and hidden compatibility conditions make them more subtle than standard ordinary differential equations. This paper initiates a quantum-algorithmic study of constrained linear DA",
+      "title": "The intersection dual of geodesic currents",
+      "url": "http://arxiv.org/abs/2605.04031v1",
+      "published": "2026-05-05",
+      "summary": "Geodesic currents on closed hyperbolic surfaces are measures on the unit tangent bundle invariant under geodesic flow and orientation reversal. Every geodesic current induces a dual function on curves via the geometric intersection pairing. It is natural to ask which curve functions are dual to geod",
       "source": "arXiv"
     },
     {
-      "title": "A Global 7% Systemic Sensitivity Floor in Gaia DR3: Multi-Wavelength Validation using 2MASS, Pan-STARRS and the 0.75-Magnitude Offset",
-      "url": "http://arxiv.org/abs/2605.00792v1",
-      "published": "2026-05-01",
-      "summary": "This study performs a multi-wavelength astrometric and photometric examination of a high-confidence sample $(N = 120,418)$ derived from a parent population of 2.36 million unique WDSS-seeded systems. By establishing an empirical polynomial ridge line for the broader Gaia-2MASS-Pan-STARRS subset, we ",
+      "title": "Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor",
+      "url": "http://arxiv.org/abs/2605.04025v1",
+      "published": "2026-05-05",
+      "summary": "We report experimental digital quantum simulation of the one-dimensional Fermi-Hubbard model on a superconducting quantum processor at a scale beyond the reach of exact statevector simulation and challenging for state-of-the-art tensor-network methods. We encode this problem using up to 120 qubits t",
       "source": "arXiv"
     },
     {
-      "title": "Simpson's paradox explains the ubiquity of nonlinear, threshold, and complex contagions",
-      "url": "http://arxiv.org/abs/2605.00791v1",
-      "published": "2026-05-01",
-      "summary": "Complex contagions describe systems where the probability or rate of contagious transmission is a nonlinear function of the exposure to contagious agents. These models were first studied theoretically but have since been used to capture effects such as nonconformism, social reinforcement or peer pre",
+      "title": "Decentralized Edge Caching under Budget and Storage Constraints: A Game-Theoretic Approach",
+      "url": "http://arxiv.org/abs/2605.04023v1",
+      "published": "2026-05-05",
+      "summary": "The rapid growth of mobile social networks (MSNs) has significantly increased the demand for low-latency and reliable content delivery, motivating the deployment of edge caching systems. In practice, multiple content providers (CPs) compete for the limited storage resources of edge devices (EDs), wh",
       "source": "arXiv"
     },
     {
-      "title": "SAVGO: Learning State-Action Value Geometry with Cosine Similarity for Continuous Control",
-      "url": "http://arxiv.org/abs/2605.00787v1",
-      "published": "2026-05-01",
-      "summary": "While representation and similarity learning have improved the sample efficiency of Reinforcement Learning (RL), they are rarely used to shape policy updates directly in the action space. To bridge this gap, a geometry-aware RL algorithm that explicitly incorporates value-based similarity into the p",
+      "title": "Quantum work beyond classical (commuting) limits",
+      "url": "http://arxiv.org/abs/2605.04021v1",
+      "published": "2026-05-05",
+      "summary": "Free energy fixes the maximum work of a thermodynamic process once the state and Hamiltonian are specified. A work-extraction task asks a different question: how much average work can a single device realize across several preparations and Hamiltonian settings? A classical work device is one whose H",
       "source": "arXiv"
     },
     {
-      "title": "GeoContra: From Fluent GIS Code to Verifiable Spatial Analysis with Geography-Grounded Repair",
-      "url": "http://arxiv.org/abs/2605.00782v1",
-      "published": "2026-05-01",
-      "summary": "Reliable spatial analysis in GIScience requires preserving coordinate semantics, topology, units, and geographic plausibility. Current LLM-based GIS systems generate fluent scripts but rarely enforce these geographic rules at scale. We present GeoContra, a verification and repair framework for LLM-d",
+      "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+      "url": "http://arxiv.org/abs/2605.04018v1",
+      "published": "2026-05-05",
+      "summary": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search systems, where retrievers must provide complementary evidence across iterative search and synthesis. ",
       "source": "arXiv"
     },
     {
-      "title": "Observable Performance Does Not Fully Reflect System Organization: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint",
-      "url": "http://arxiv.org/abs/2605.00778v1",
-      "published": "2026-05-01",
-      "summary": "In biomechanical systems, observable performance is often used as a proxy for underlying system organization. However, this assumption implicitly presumes a correspondence between output metrics and internal system states that may not hold in adaptive systems. In this study, the vertical dimension o",
+      "title": "Real and Complex Singlet-Scalar Benchmarks with a Vector-Like Down Quark for $B\\to X_s\u03b3$ and $B_s-\\bar B_s$ Mixing",
+      "url": "http://arxiv.org/abs/2605.04010v1",
+      "published": "2026-05-05",
+      "summary": "We study a simple extension of the Standard Model with a vector-like down-type quark $D$ and a neutral singlet scalar ${\\cal S}=S_R,\u03a6$. The scalar is considered in two forms, a real field $S_R=S_R^\\dagger$ and a complex field $\u03a6\\neq\u03a6^\\dagger$. The interaction $-\u03bb_i{\\cal S}\\bar D_L d_{Ri}+{\\rm h.c.}$",
       "source": "arXiv"
     }
   ]
