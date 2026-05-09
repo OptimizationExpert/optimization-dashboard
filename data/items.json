@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-05-07T08:26:58.380168",
+  "generated_at": "2026-05-09T07:49:50.778068",
   "items": [
     {
-      "title": "Mixed-Parity Altermagnetism in Collinear Spin-Orbital Magnets",
-      "url": "http://arxiv.org/abs/2605.05205v1",
-      "published": "2026-05-06",
-      "summary": "Altermagnetism has so far mainly been understood in its even- and odd-parity forms. We show that collinear antiferromagnets with zero net magnetization can also host mixed-parity spin splitting, namely neither purely even nor purely odd in momentum. We identify the symmetry conditions for such mixed",
+      "title": "Rational homology disk degenerations of elliptic surfaces",
+      "url": "http://arxiv.org/abs/2605.06668v1",
+      "published": "2026-05-07",
+      "summary": "In this paper, a $\\mathbb{Q}$HD singularity is a weighted homogeneous normal surface singularity admitting a rational homology disk ($\\mathbb{Q}$HD) smoothing. These singularities are rational but often not log canonical. We classify all $\\mathbb{Q}$HD degenerations of nonsingular projective ellipti",
       "source": "arXiv"
     },
     {
-      "title": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models",
-      "url": "http://arxiv.org/abs/2605.05204v1",
-      "published": "2026-05-06",
-      "summary": "The landscape of high-performance image generation models is currently shifting from the inefficient multi-step ones to the efficient few-step counterparts (e.g, Z-Image-Turbo and FLUX.2-klein). However, these models present significant challenges for directly continuous supervised fine-tuning. For ",
+      "title": "The Kubo-Thermalization Correspondence",
+      "url": "http://arxiv.org/abs/2605.06666v1",
+      "published": "2026-05-07",
+      "summary": "Quantum thermalization describes how interacting quantum systems relax toward thermal equilibrium, a central problem in modern physics. Yet most experimental information on many-body systems comes from short-time transition spectroscopy, typically interpreted within Kubo's linear-response framework.",
       "source": "arXiv"
     },
     {
-      "title": "Non-conservation and time non-locality of biased tracers",
-      "url": "http://arxiv.org/abs/2605.05203v1",
-      "published": "2026-05-06",
-      "summary": "We study the effect of ongoing formation and merger on the assumed number conservation of biased tracers. Using a Lagrangian approach we present a model of the number density which accounts for such effects. The model is nonlocal in time, reflecting the gradual assembly of tracers from the underlyin",
+      "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "published": "2026-05-07",
+      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with linear expert-parameter growth and assumes that every layer needs isolated expert capacity. However, re",
       "source": "arXiv"
     },
     {
-      "title": "Optimizing Bit-Labeling of Voronoi Constellations",
-      "url": "http://arxiv.org/abs/2605.05202v1",
-      "published": "2026-05-06",
-      "summary": "We define a novel search method and performance metric as a technique for optimizing the bit-to-symbol map of the $D_4$ and $E_8$ root lattices in reference to bit error rate. We hold other sources of lattice gain constant by fixing the lattice constellation, and consider basis matrices that permute",
+      "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "published": "2026-05-07",
+      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific knowledge. Mixture-of-Experts (MoEs) seemingly offer a potential alternative by activating only a subset",
       "source": "arXiv"
     },
     {
-      "title": "S-LCG: Structured Linear Congruential Generator-Based Deterministic Algorithm for Search and Optimization",
-      "url": "http://arxiv.org/abs/2605.05198v1",
-      "published": "2026-05-06",
-      "summary": "This study presents a novel deterministic optimization algorithm based on a special variant of the Linear Congruential Generator (LCG). While conventional algorithms generally operate within the search space, the introduced technique follows a two-level architecture. In particular, an external loop ",
+      "title": "Multi-Robot Coordination in V2X Environments",
+      "url": "http://arxiv.org/abs/2605.06662v1",
+      "published": "2026-05-07",
+      "summary": "This paper presents a Vehicle-to-Everything (V2X) communication framework that enables decentralized cooperation among social robots operating in complex urban traffic environments. Building on ETSI Cooperative Awareness and Maneuver Coordination services, the framework introduces two robot-centric ",
       "source": "arXiv"
     },
     {
-      "title": "Implicit Representations of Grammaticality in Language Models",
-      "url": "http://arxiv.org/abs/2605.05197v1",
-      "published": "2026-05-06",
-      "summary": "Grammaticality and likelihood are distinct notions in human language. Pretrained language models (LMs), which are probabilistic models of language fitted to maximize corpus likelihood, generate grammatically well-formed text and discriminate well between grammatical and ungrammatical sentences in ti",
+      "title": "Pro-Tensor Network",
+      "url": "http://arxiv.org/abs/2605.06661v1",
+      "published": "2026-05-07",
+      "summary": "We introduce the pro-tensor network, a categorification of the tensor network, as a fully rigorous yet graphically transparent framework for studying the collection of many many-body theories, which we dub many-many-body theory. We provide a comprehensive toolbox for the graphical calculations using",
       "source": "arXiv"
     },
     {
-      "title": "Singular Behavior of Observables at Hopf Bifurcations",
-      "url": "http://arxiv.org/abs/2605.05194v1",
-      "published": "2026-05-06",
-      "summary": "Hopf bifurcations are a universal route to self-sustained oscillations in driven systems. Despite the absence of any singular stationary state, we show that time-averaged observables generically exhibit singularities at the onset of oscillations. The origin of this behavior is geometric: phase avera",
+      "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "published": "2026-05-07",
+      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs from Arena, and show that the best-fit global Bradley-Terry (BT) ranking is misleading. Nearly 2/3 of ",
       "source": "arXiv"
     },
     {
-      "title": "Grokability in five inequalities",
-      "url": "http://arxiv.org/abs/2605.05193v1",
-      "published": "2026-05-06",
-      "summary": "In this note, we report five mathematical discoveries made in collaboration with Grok, all of which have been subsequently verified by the authors. These include an improved lower bound on the maximal Gaussian perimeter of convex sets in $\\mathbb{R}^n$, sharper $L_2$-$L_1$ moment comparison inequali",
+      "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "url": "http://arxiv.org/abs/2605.06654v1",
+      "published": "2026-05-07",
+      "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same optimizer as in pretraining achieves a better learning-forgetting tradeoff, i.e., forgetting less while ",
       "source": "arXiv"
     },
     {
-      "title": "Almost-Orthogonality in Lp Spaces: A Case Study with Grok",
-      "url": "http://arxiv.org/abs/2605.05192v1",
-      "published": "2026-05-06",
-      "summary": "Carbery proposed the following sharpened form of triangle inequality for many functions: for any $p\\ge 2$ and any finite sequence $(f_j)_j\\subset L^p$ we have \\[ \\Big\\|\\sum_j f_j\\Big\\|_p \\ \\le\\ \\left(\\sup_{j} \\sum_{k} \u03b1_{jk}^{\\,c}\\right)^{1/p'} \\Big(\\sum_j \\|f_j\\|_p^p\\Big)^{1/p}, \\] where $c=2$, $1/",
+      "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "url": "http://arxiv.org/abs/2605.06651v1",
+      "published": "2026-05-07",
+      "summary": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support for the exploratory and iterative reality of mathematical workflows, including ideation, literature",
       "source": "arXiv"
     },
     {
-      "title": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval",
-      "url": "http://arxiv.org/abs/2605.05189v1",
-      "published": "2026-05-06",
-      "summary": "How many key-value associations can a $d\\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the memory matrix, but also on the retrieval criterion. In an isotropic Gaussian model for the stored pairs, we show that top-1 retrieval, where every si",
+      "title": "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients",
+      "url": "http://arxiv.org/abs/2605.06650v1",
+      "published": "2026-05-07",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The community witnesses the rapid change from the Proximal Policy Optimization (PPO) to Group Relative Policy",
       "source": "arXiv"
     },
     {
-      "title": "SILC: Lookahead Caching for Short-form Video Delivery Systems",
-      "url": "http://arxiv.org/abs/2605.05188v1",
-      "published": "2026-05-06",
-      "summary": "Short video platforms like TikTok, Instagram Reels, and YouTube Shorts have gained immense popularity in the last few years and are responsible for a large and growing fraction of Internet traffic. We identify two unique opportunities for improving short video delivery using their existing interacti",
+      "title": "A preliminary exploration of the effects of baseline length for the LIFE space mission",
+      "url": "http://arxiv.org/abs/2605.06648v1",
+      "published": "2026-05-07",
+      "summary": "By aiming to find and characterise dozens of habitable exoplanets through the technique of nulling interferometry, the LIFE space mission will produce transformational science. One of the key parameters for such an interferometric mission is the nulling baseline length - the distance between nulled ",
       "source": "arXiv"
     },
     {
-      "title": "A Closed-Form Dual-Barrier CBF Safety Filter for Holonomic Robots on Incrementally Built Occupancy Grid Maps",
-      "url": "http://arxiv.org/abs/2605.05182v1",
-      "published": "2026-05-06",
-      "summary": "We present a dual-barrier control barrier function (CBF) safety filter for real-time, safety-critical velocity control of holonomic robots operating in incrementally built occupancy grid maps. As a robot explores an unknown environment, unmapped regions introduce irreducible uncertainty, since obsta",
+      "title": "Electrically controlled Heat Assisted Magnetic Recording in Intercalated 2D Magnets",
+      "url": "http://arxiv.org/abs/2605.06645v1",
+      "published": "2026-05-07",
+      "summary": "The ever-increasing demand for fast, reliable, and energy-efficient information storage continues to push magnetic memory technologies toward their fundamental limits. Conventional scaling strategies, which rely on reducing bit size, inevitably run into the \"magnetic recording trilemma,\" where signa",
       "source": "arXiv"
     },
     {
-      "title": "Note on zero-sum magic squares on Abelian groups",
-      "url": "http://arxiv.org/abs/2605.05181v1",
-      "published": "2026-05-06",
-      "summary": "Let $(\u0393,+)$ be an Abelian group of order $n^2$. A $\u0393$-magic square of order $n$ is an $n\\times n$ array whose entries are pairwise distinct elements of $\u0393$ such that all row sums, column sums, and the two main diagonal sums are equal to the same element $\u03bc\\in \u0393$, called the magic constant.\n  A combi",
+      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+      "url": "http://arxiv.org/abs/2605.06642v1",
+      "published": "2026-05-07",
+      "summary": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, which weakens both exploration and credit assignment over extended trajectories. In this work, we pres",
       "source": "arXiv"
     },
     {
-      "title": "Estimating the expected output of wide random MLPs more efficiently than sampling",
-      "url": "http://arxiv.org/abs/2605.05179v1",
-      "published": "2026-05-06",
-      "summary": "By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical average. However, sampling is not necessarily optimal. Given an MLP at initialization, we show how to estimate its expected output over Gaussian inputs",
+      "title": "Recursive Agent Optimization",
+      "url": "http://arxiv.org/abs/2605.06639v1",
+      "published": "2026-05-07",
+      "summary": "We introduce Recursive Agent Optimization (RAO), a reinforcement learning approach for training recursive agents: agents that can spawn and delegate sub-tasks to new instantiations of themselves recursively. Recursive agents implement an inference-time scaling algorithm that naturally allows agents ",
       "source": "arXiv"
     },
     {
-      "title": "Understanding In-Context Learning for Nonlinear Regression with Transformers: Attention as Featurizer",
-      "url": "http://arxiv.org/abs/2605.05176v1",
-      "published": "2026-05-06",
-      "summary": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated efficacy across various domains, the theoretical understanding of ICL is still developing. Whereas mos",
+      "title": "DPM++: Dynamic Masked Metric Learning for Occluded Person Re-identification",
+      "url": "http://arxiv.org/abs/2605.06637v1",
+      "published": "2026-05-07",
+      "summary": "Although person re-identification has made impressive progress, occlusion caused by obstacles remains an unsettled issue in real applications. The difficulty lies in the mismatch between incomplete occluded samples and holistic identity representations. Severe occlusion removes discriminative body c",
       "source": "arXiv"
     }
   ]
