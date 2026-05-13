@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-05-09T07:49:50.778068",
+  "generated_at": "2026-05-13T08:38:24.919640",
   "items": [
     {
-      "title": "Rational homology disk degenerations of elliptic surfaces",
-      "url": "http://arxiv.org/abs/2605.06668v1",
-      "published": "2026-05-07",
-      "summary": "In this paper, a $\\mathbb{Q}$HD singularity is a weighted homogeneous normal surface singularity admitting a rational homology disk ($\\mathbb{Q}$HD) smoothing. These singularities are rational but often not log canonical. We classify all $\\mathbb{Q}$HD degenerations of nonsingular projective ellipti",
+      "title": "Measuring cosmic bulk flow with kinetic Sunyaev-Zel'dovich velocity reconstruction",
+      "url": "http://arxiv.org/abs/2605.12499v1",
+      "published": "2026-05-12",
+      "summary": "Cosmic bulk flow--the volume-averaged peculiar velocity of matter--serves as a fundamental test of the Cosmological Principle when probed on gigaparsec (Gpc) scales. Historically, however, measurements of cosmic bulk flow have been limited to $R\\lesssim 100\\ h^{-1}{\\rm Mpc}$. We present an applicati",
       "source": "arXiv"
     },
     {
-      "title": "The Kubo-Thermalization Correspondence",
-      "url": "http://arxiv.org/abs/2605.06666v1",
-      "published": "2026-05-07",
-      "summary": "Quantum thermalization describes how interacting quantum systems relax toward thermal equilibrium, a central problem in modern physics. Yet most experimental information on many-body systems comes from short-time transition spectroscopy, typically interpreted within Kubo's linear-response framework.",
+      "title": "Scalable Measurement-Based Quantum Simulation Patterns for Benchmarking",
+      "url": "http://arxiv.org/abs/2605.12502v1",
+      "published": "2026-05-12",
+      "summary": "Measurement-based quantum computing uses measurement patterns on predefined quantum resource states to execute quantum logic. Quantum simulation offers an important use case on near-term devices. However, pattern optimization depends on the multivariable interplay between hardware and software const",
       "source": "arXiv"
     },
     {
-      "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
-      "url": "http://arxiv.org/abs/2605.06665v1",
-      "published": "2026-05-07",
-      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with linear expert-parameter growth and assumes that every layer needs isolated expert capacity. However, re",
+      "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
+      "url": "http://arxiv.org/abs/2605.12495v1",
+      "published": "2026-05-12",
+      "summary": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to",
       "source": "arXiv"
     },
     {
-      "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
-      "url": "http://arxiv.org/abs/2605.06663v1",
-      "published": "2026-05-07",
-      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific knowledge. Mixture-of-Experts (MoEs) seemingly offer a potential alternative by activating only a subset",
+      "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
+      "url": "http://arxiv.org/abs/2605.12492v1",
+      "published": "2026-05-12",
+      "summary": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion updates each weight matrix through left and right orthogonal transformations, preserving its singular valu",
       "source": "arXiv"
     },
     {
-      "title": "Multi-Robot Coordination in V2X Environments",
-      "url": "http://arxiv.org/abs/2605.06662v1",
-      "published": "2026-05-07",
-      "summary": "This paper presents a Vehicle-to-Everything (V2X) communication framework that enables decentralized cooperation among social robots operating in complex urban traffic environments. Building on ETSI Cooperative Awareness and Maneuver Coordination services, the framework introduces two robot-centric ",
+      "title": "Elastic Attention Cores for Scalable Vision Transformers",
+      "url": "http://arxiv.org/abs/2605.12491v1",
+      "published": "2026-05-12",
+      "summary": "Vision Transformers (ViTs) achieve strong data-driven scaling by leveraging all-to-all self-attention. However, this flexibility incurs a computational cost that scales quadratically with image resolution, limiting ViTs in high-resolution domains. Underlying this approach is the assumption that pair",
       "source": "arXiv"
     },
     {
-      "title": "Pro-Tensor Network",
-      "url": "http://arxiv.org/abs/2605.06661v1",
-      "published": "2026-05-07",
-      "summary": "We introduce the pro-tensor network, a categorification of the tensor network, as a fully rigorous yet graphically transparent framework for studying the collection of many many-body theories, which we dub many-many-body theory. We provide a comprehensive toolbox for the graphical calculations using",
+      "title": "Task-Adaptive Embedding Refinement via Test-time LLM Guidance",
+      "url": "http://arxiv.org/abs/2605.12487v1",
+      "published": "2026-05-12",
+      "summary": "We explore the effectiveness of an LLM-guided query refinement paradigm for extending the usability of embedding models to challenging zero-shot search and classification tasks. Our approach refines the embedding representation of a user query using feedback from a generative LLM on a small set of d",
       "source": "arXiv"
     },
     {
-      "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
-      "url": "http://arxiv.org/abs/2605.06656v1",
-      "published": "2026-05-07",
-      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs from Arena, and show that the best-fit global Bradley-Terry (BT) ranking is misleading. Nearly 2/3 of ",
+      "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
+      "url": "http://arxiv.org/abs/2605.12484v1",
+      "published": "2026-05-12",
+      "summary": "Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to absorb task-specific information, which can result in catastrophic forgetting and loss of plasticity. In contrast, in-context learning with fixed LLM",
       "source": "arXiv"
     },
     {
-      "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
-      "url": "http://arxiv.org/abs/2605.06654v1",
-      "published": "2026-05-07",
-      "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same optimizer as in pretraining achieves a better learning-forgetting tradeoff, i.e., forgetting less while ",
+      "title": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training",
+      "url": "http://arxiv.org/abs/2605.12483v1",
+      "published": "2026-05-12",
+      "summary": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that will be deployed, for example by running GRPO on the deployment student. We argue that this is often ",
       "source": "arXiv"
     },
     {
-      "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
-      "url": "http://arxiv.org/abs/2605.06651v1",
-      "published": "2026-05-07",
-      "summary": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support for the exploratory and iterative reality of mathematical workflows, including ideation, literature",
+      "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
+      "url": "http://arxiv.org/abs/2605.12481v1",
+      "published": "2026-05-12",
+      "summary": "Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them uncertain about when to continue with GUI actions or switch to tools, leading to suboptimal executi",
       "source": "arXiv"
     },
     {
-      "title": "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients",
-      "url": "http://arxiv.org/abs/2605.06650v1",
-      "published": "2026-05-07",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The community witnesses the rapid change from the Proximal Policy Optimization (PPO) to Group Relative Policy",
+      "title": "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation",
+      "url": "http://arxiv.org/abs/2605.12480v1",
+      "published": "2026-05-12",
+      "summary": "Recent advances in joint audio-video generation have been remarkable, yet real-world applications demand strong per-modality fidelity, cross-modal alignment, and fine-grained synchronization. Reinforcement Learning (RL) offers a promising paradigm, but its extension to multi-objective and multi-moda",
       "source": "arXiv"
     },
     {
-      "title": "A preliminary exploration of the effects of baseline length for the LIFE space mission",
-      "url": "http://arxiv.org/abs/2605.06648v1",
-      "published": "2026-05-07",
-      "summary": "By aiming to find and characterise dozens of habitable exoplanets through the technique of nulling interferometry, the LIFE space mission will produce transformational science. One of the key parameters for such an interferometric mission is the nulling baseline length - the distance between nulled ",
+      "title": "Automated multiphase identification and refinement in powder diffraction using mismatch-tolerant machine learning",
+      "url": "http://arxiv.org/abs/2605.12478v1",
+      "published": "2026-05-12",
+      "summary": "Powder diffraction is a primary structural characterization tool in materials science, yet automated phase identification remains a major bottleneck for autonomous discovery. Existing workflows rely heavily on search--match heuristics and manual Rietveld refinement, and broadly usable end-to-end aut",
       "source": "arXiv"
     },
     {
-      "title": "Electrically controlled Heat Assisted Magnetic Recording in Intercalated 2D Magnets",
-      "url": "http://arxiv.org/abs/2605.06645v1",
-      "published": "2026-05-07",
-      "summary": "The ever-increasing demand for fast, reliable, and energy-efficient information storage continues to push magnetic memory technologies toward their fundamental limits. Conventional scaling strategies, which rely on reducing bit size, inevitably run into the \"magnetic recording trilemma,\" where signa",
+      "title": "MEME: Multi-entity & Evolving Memory Evaluation",
+      "url": "http://arxiv.org/abs/2605.12477v1",
+      "published": "2026-05-12",
+      "summary": "LLM-based agents increasingly operate in persistent environments where they must store, update, and reason over information across many sessions. While prior benchmarks evaluate only single-entity updates, MEME defines six tasks spanning the full space defined by the multi-entity and evolving axes, ",
       "source": "arXiv"
     },
     {
-      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
-      "url": "http://arxiv.org/abs/2605.06642v1",
-      "published": "2026-05-07",
-      "summary": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, which weakens both exploration and credit assignment over extended trajectories. In this work, we pres",
+      "title": "Reward Hacking in Rubric-Based Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2605.12474v1",
+      "published": "2026-05-12",
+      "summary": "Reinforcement learning with verifiable rewards has enabled strong post-training gains in domains such as math and coding, though many open-ended settings rely on rubric-based rewards. We study reward hacking in rubric-based RL, where a policy is optimized against a training verifier but evaluated ag",
       "source": "arXiv"
     },
     {
-      "title": "Recursive Agent Optimization",
-      "url": "http://arxiv.org/abs/2605.06639v1",
-      "published": "2026-05-07",
-      "summary": "We introduce Recursive Agent Optimization (RAO), a reinforcement learning approach for training recursive agents: agents that can spawn and delegate sub-tasks to new instantiations of themselves recursively. Recursive agents implement an inference-time scaling algorithm that naturally allows agents ",
+      "title": "Optical detection of the electron spin resonances of G centers in silicon",
+      "url": "http://arxiv.org/abs/2605.12473v1",
+      "published": "2026-05-12",
+      "summary": "Color centers in silicon are emerging as promising platforms for quantum technologies. Among them, the G center has attracted considerable interest owing to its bright telecom O-band single-photon emission and its optically addressable metastable electron-spin triplet state. Here we investigate the ",
       "source": "arXiv"
     },
     {
-      "title": "DPM++: Dynamic Masked Metric Learning for Occluded Person Re-identification",
-      "url": "http://arxiv.org/abs/2605.06637v1",
-      "published": "2026-05-07",
-      "summary": "Although person re-identification has made impressive progress, occlusion caused by obstacles remains an unsettled issue in real applications. The difficulty lies in the mismatch between incomplete occluded samples and holistic identity representations. Severe occlusion removes discriminative body c",
+      "title": "An Improved Lower Bound on Support Size of Capacity-Achieving Inputs for the Binomial Channel: Extended version",
+      "url": "http://arxiv.org/abs/2605.12472v1",
+      "published": "2026-05-12",
+      "summary": "We study the binomial channel and the structure of its capacity-achieving input and output distributions. It is known that the capacity-achieving input distribution is discrete and supported on finitely many points. The best previously known bounds show that the support size of the capacity-achievin",
       "source": "arXiv"
     }
   ]
