@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-05-13T08:38:24.919640",
+  "generated_at": "2026-05-14T08:32:08.610192",
   "items": [
     {
-      "title": "Measuring cosmic bulk flow with kinetic Sunyaev-Zel'dovich velocity reconstruction",
-      "url": "http://arxiv.org/abs/2605.12499v1",
-      "published": "2026-05-12",
-      "summary": "Cosmic bulk flow--the volume-averaged peculiar velocity of matter--serves as a fundamental test of the Cosmological Principle when probed on gigaparsec (Gpc) scales. Historically, however, measurements of cosmic bulk flow have been limited to $R\\lesssim 100\\ h^{-1}{\\rm Mpc}$. We present an applicati",
+      "title": "Quantitative Linear Logic for Neuro-Symbolic Learning and Verification",
+      "url": "http://arxiv.org/abs/2605.13845v1",
+      "published": "2026-05-13",
+      "summary": "Differentiable Logics are deployed in neuro-symbolic learning tasks as a way of embedding logical constraints in the training objective of neural networks. A differentiable logic consists of a syntax to write logical properties and a semantics to interpret them as real-valued functions to be folded ",
       "source": "arXiv"
     },
     {
-      "title": "Scalable Measurement-Based Quantum Simulation Patterns for Benchmarking",
-      "url": "http://arxiv.org/abs/2605.12502v1",
-      "published": "2026-05-12",
-      "summary": "Measurement-based quantum computing uses measurement patterns on predefined quantum resource states to execute quantum logic. Quantum simulation offers an important use case on near-term devices. However, pattern optimization depends on the multivariable interplay between hardware and software const",
+      "title": "Reachable-Set Decomposition for Real-Time Aggregation of Multi-Zone HVAC Fleets",
+      "url": "http://arxiv.org/abs/2605.13836v1",
+      "published": "2026-05-13",
+      "summary": "Aggregating building heating, ventilation, and air-conditioning (HVAC) fleets provides substantial real-time flexibility to power system operations. However, real-time aggregation of multi-zone HVAC fleets faces two key challenges: (i) strong coupling across zones and time makes flexibility characte",
       "source": "arXiv"
     },
     {
-      "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
-      "url": "http://arxiv.org/abs/2605.12495v1",
-      "published": "2026-05-12",
-      "summary": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to",
+      "title": "Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning",
+      "url": "http://arxiv.org/abs/2605.13835v1",
+      "published": "2026-05-13",
+      "summary": "Class-Incremental Learning (CIL) enables models to continuously integrate new knowledge while mitigating catastrophic forgetting. Driven by the remarkable generalization of CLIP, leveraging pre-trained vision-language models has become a dominant paradigm in CIL. However, current work primarily focu",
       "source": "arXiv"
     },
     {
-      "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
-      "url": "http://arxiv.org/abs/2605.12492v1",
-      "published": "2026-05-12",
-      "summary": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion updates each weight matrix through left and right orthogonal transformations, preserving its singular valu",
+      "title": "QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling",
+      "url": "http://arxiv.org/abs/2605.13833v1",
+      "published": "2026-05-13",
+      "summary": "Modeling long-range dependencies in sequential data remains a central challenge in machine learning. Transformers address this challenge through attention mechanisms, but their quadratic complexity with respect to sequence length limits scalability to long contexts. State-space models (SSMs) provide",
       "source": "arXiv"
     },
     {
-      "title": "Elastic Attention Cores for Scalable Vision Transformers",
-      "url": "http://arxiv.org/abs/2605.12491v1",
-      "published": "2026-05-12",
-      "summary": "Vision Transformers (ViTs) achieve strong data-driven scaling by leveraging all-to-all self-attention. However, this flexibility incurs a computational cost that scales quadratically with image resolution, limiting ViTs in high-resolution domains. Underlying this approach is the assumption that pair",
+      "title": "Combining moment matrices, symmetric extension, and Lov\u00e1sz theta: $\u03a6_{\\text{E8}}$ is entangled",
+      "url": "http://arxiv.org/abs/2605.13832v1",
+      "published": "2026-05-13",
+      "summary": "We solve an open problem in entanglement theory posed by Yu et al., {\\it Nature Communications 12, 1012 (2021)}. The problem is to show, via an entanglement witness, that the $14$-qubit state $\u03a6_{\\text{E8}}$ is entangled. Inspired by a method from quantum codes, we combine symmetric extension with m",
       "source": "arXiv"
     },
     {
-      "title": "Task-Adaptive Embedding Refinement via Test-time LLM Guidance",
-      "url": "http://arxiv.org/abs/2605.12487v1",
-      "published": "2026-05-12",
-      "summary": "We explore the effectiveness of an LLM-guided query refinement paradigm for extending the usability of embedding models to challenging zero-shot search and classification tasks. Our approach refines the embedding representation of a user query using feedback from a generative LLM on a small set of d",
+      "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
+      "url": "http://arxiv.org/abs/2605.13831v1",
+      "published": "2026-05-13",
+      "summary": "Long-context modeling is becoming a core capability of modern large vision-language models (LVLMs), enabling sustained context management across long-document understanding, video analysis, and multi-turn tool use in agentic workflows. Yet practical training recipes remain insufficiently explored, p",
       "source": "arXiv"
     },
     {
-      "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
-      "url": "http://arxiv.org/abs/2605.12484v1",
-      "published": "2026-05-12",
-      "summary": "Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to absorb task-specific information, which can result in catastrophic forgetting and loss of plasticity. In contrast, in-context learning with fixed LLM",
+      "title": "Graphs of Hecke operators in mixed ramification",
+      "url": "http://arxiv.org/abs/2605.13824v1",
+      "published": "2026-05-13",
+      "summary": "We study Hecke operators on moduli spaces of ramified $G$-bundles using the combinatorial language of Hecke graphs. We introduce a general notion of $\\mathcal H$-ramification in the spirit of parahoric ramification, which depends on a choice of a divisor and subgroups of $G$ at every point of the di",
       "source": "arXiv"
     },
     {
-      "title": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training",
-      "url": "http://arxiv.org/abs/2605.12483v1",
-      "published": "2026-05-12",
-      "summary": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that will be deployed, for example by running GRPO on the deployment student. We argue that this is often ",
+      "title": "Stability analysis of Richardson models with delay for confrontation between two countries",
+      "url": "http://arxiv.org/abs/2605.13823v1",
+      "published": "2026-05-13",
+      "summary": "This article proposes a non-autonomous mathematical model with delay for confrontation between two countries, and examines the stability of its equilibrium state. Our criteria for stability take into account the influence of the factor of hostility between countries. For the autonomous case, the asy",
       "source": "arXiv"
     },
     {
-      "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
-      "url": "http://arxiv.org/abs/2605.12481v1",
-      "published": "2026-05-12",
-      "summary": "Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them uncertain about when to continue with GUI actions or switch to tools, leading to suboptimal executi",
+      "title": "Harnessing Agentic Evolution",
+      "url": "http://arxiv.org/abs/2605.13821v1",
+      "published": "2026-05-13",
+      "summary": "Agentic evolution has emerged as a powerful paradigm for improving programs, workflows, and scientific solutions by iteratively generating candidates, evaluating them, and using feedback to guide future search. However, existing methods are typically instantiated either as fixed hand-designed proced",
       "source": "arXiv"
     },
     {
-      "title": "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation",
-      "url": "http://arxiv.org/abs/2605.12480v1",
-      "published": "2026-05-12",
-      "summary": "Recent advances in joint audio-video generation have been remarkable, yet real-world applications demand strong per-modality fidelity, cross-modal alignment, and fine-grained synchronization. Reinforcement Learning (RL) offers a promising paradigm, but its extension to multi-objective and multi-moda",
+      "title": "OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation",
+      "url": "http://arxiv.org/abs/2605.13815v1",
+      "published": "2026-05-13",
+      "summary": "LiDAR scene generation is increasingly important for scalable simulation and synthetic data creation, especially under diverse sensing conditions that are costly to capture at scale. Typically, diffusion-based LiDAR generators are developed under single-domain settings, requiring separate models for",
       "source": "arXiv"
     },
     {
-      "title": "Automated multiphase identification and refinement in powder diffraction using mismatch-tolerant machine learning",
-      "url": "http://arxiv.org/abs/2605.12478v1",
-      "published": "2026-05-12",
-      "summary": "Powder diffraction is a primary structural characterization tool in materials science, yet automated phase identification remains a major bottleneck for autonomous discovery. Existing workflows rely heavily on search--match heuristics and manual Rietveld refinement, and broadly usable end-to-end aut",
+      "title": "Emergency Vehicle Preemption Strategies using Machine Learning to Optimize Traffic Operations",
+      "url": "http://arxiv.org/abs/2605.13814v1",
+      "published": "2026-05-13",
+      "summary": "Emergency response vehicles (ERVs), such as fire trucks, operate to save lives and mitigate property damage. Emergency vehicle preemption (EVP) is typically implemented to provide the right-of-way to ERVs by giving green signals as they approach signalized intersections along their routes. EVP opera",
       "source": "arXiv"
     },
     {
-      "title": "MEME: Multi-entity & Evolving Memory Evaluation",
-      "url": "http://arxiv.org/abs/2605.12477v1",
-      "published": "2026-05-12",
-      "summary": "LLM-based agents increasingly operate in persistent environments where they must store, update, and reason over information across many sessions. While prior benchmarks evaluate only single-entity updates, MEME defines six tasks spanning the full space defined by the multi-entity and evolving axes, ",
+      "title": "Photometric metallicity of Galactic RR Lyrae stars in the Gaia DR3 era",
+      "url": "http://arxiv.org/abs/2605.13811v1",
+      "published": "2026-05-13",
+      "summary": "We present a new, calibrated $G$-band relationship between pulsation period $P$, Fourier parameter $\u03c6_{31}$, and metallicity [Fe/H] for galactic RR Lyrae stars from the Gaia survey. A set of 72 fundamental mode RR Lyrae stars were identified for deriving the relation in the $G$-band, after visual ex",
       "source": "arXiv"
     },
     {
-      "title": "Reward Hacking in Rubric-Based Reinforcement Learning",
-      "url": "http://arxiv.org/abs/2605.12474v1",
-      "published": "2026-05-12",
-      "summary": "Reinforcement learning with verifiable rewards has enabled strong post-training gains in domains such as math and coding, though many open-ended settings rely on rubric-based rewards. We study reward hacking in rubric-based RL, where a policy is optimized against a training verifier but evaluated ag",
+      "title": "Min-Max Optimization Requires Exponentially Many Queries",
+      "url": "http://arxiv.org/abs/2605.13806v1",
+      "published": "2026-05-13",
+      "summary": "We study the query complexity of min-max optimization of a nonconvex-nonconcave function $f$ over $[0,1]^d \\times [0,1]^d$. We show that, given oracle access to $f$ and to its gradient $\\nabla f$, any algorithm that finds an $\\varepsilon$-approximate stationary point must make a number of queries th",
       "source": "arXiv"
     },
     {
-      "title": "Optical detection of the electron spin resonances of G centers in silicon",
-      "url": "http://arxiv.org/abs/2605.12473v1",
-      "published": "2026-05-12",
-      "summary": "Color centers in silicon are emerging as promising platforms for quantum technologies. Among them, the G center has attracted considerable interest owing to its bright telecom O-band single-photon emission and its optically addressable metastable electron-spin triplet state. Here we investigate the ",
+      "title": "Tidal disruption of a low-mass star in an active galactic nucleus as the origin of the PS16dtm outburst",
+      "url": "http://arxiv.org/abs/2605.13799v1",
+      "published": "2026-05-13",
+      "summary": "The event PS16dtm, which occured in the center of the Narrow Line Seyfert 1 (NLS1) galaxy SDSS J015804.75-005221.8 (z = 0.080440), is one of the few candidates for a tidal disruption event in an already-acretting active galactic nucleus (AGN). We aim to shed light on the character of the tidal disru",
       "source": "arXiv"
     },
     {
-      "title": "An Improved Lower Bound on Support Size of Capacity-Achieving Inputs for the Binomial Channel: Extended version",
-      "url": "http://arxiv.org/abs/2605.12472v1",
-      "published": "2026-05-12",
-      "summary": "We study the binomial channel and the structure of its capacity-achieving input and output distributions. It is known that the capacity-achieving input distribution is discrete and supported on finitely many points. The best previously known bounds show that the support size of the capacity-achievin",
+      "title": "VoxCor: Training-Free Volumetric Features for Multimodal Voxel Correspondence",
+      "url": "http://arxiv.org/abs/2605.13798v1",
+      "published": "2026-05-13",
+      "summary": "Cross-modal 3D medical image analysis requires voxelwise representations that remain anatomically consistent across imaging contrasts, scanners, and acquisition protocols. Recent work has shown that frozen 2D Vision Transformer (ViT) foundation models can support such representations, but typical pi",
       "source": "arXiv"
     }
   ]
