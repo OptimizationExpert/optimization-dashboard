@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-05-14T08:32:08.610192",
+  "generated_at": "2026-05-15T08:43:53.159755",
   "items": [
     {
-      "title": "Quantitative Linear Logic for Neuro-Symbolic Learning and Verification",
-      "url": "http://arxiv.org/abs/2605.13845v1",
-      "published": "2026-05-13",
-      "summary": "Differentiable Logics are deployed in neuro-symbolic learning tasks as a way of embedding logical constraints in the training objective of neural networks. A differentiable logic consists of a syntax to write logical properties and a semantics to interpret them as real-valued functions to be folded ",
+      "title": "Mixed-State Long-Range Entanglement from Dimensional Constraints",
+      "url": "http://arxiv.org/abs/2605.15201v1",
+      "published": "2026-05-14",
+      "summary": "We present a new mechanism for long-range entanglement (LRE) in strongly symmetric many-body mixed states that does not rely on symmetry anomalies or long-range correlations. Our primary example is the maximally mixed state in the translation-invariant subspace on a one-dimensional ring. This state ",
       "source": "arXiv"
     },
     {
-      "title": "Reachable-Set Decomposition for Real-Time Aggregation of Multi-Zone HVAC Fleets",
-      "url": "http://arxiv.org/abs/2605.13836v1",
-      "published": "2026-05-13",
-      "summary": "Aggregating building heating, ventilation, and air-conditioning (HVAC) fleets provides substantial real-time flexibility to power system operations. However, real-time aggregation of multi-zone HVAC fleets faces two key challenges: (i) strong coupling across zones and time makes flexibility characte",
+      "title": "Translation symmetry-enforced long-range entanglement in mixed states",
+      "url": "http://arxiv.org/abs/2605.15200v1",
+      "published": "2026-05-14",
+      "summary": "We show by a counting argument that even though translation symmetry admits symmetric short-range entangled (SRE) eigenstates, there are not enough such SRE eigenstates to span the zero momentum sector. This means that the fixed point strong-to-weak spontaneous symmetry breaking state of translation",
       "source": "arXiv"
     },
     {
-      "title": "Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning",
-      "url": "http://arxiv.org/abs/2605.13835v1",
-      "published": "2026-05-13",
-      "summary": "Class-Incremental Learning (CIL) enables models to continuously integrate new knowledge while mitigating catastrophic forgetting. Driven by the remarkable generalization of CLIP, leveraging pre-trained vision-language models has become a dominant paradigm in CIL. However, current work primarily focu",
+      "title": "Primordial Black Hole from Tensor-induced Density Fluctuation: First-order Phase Transitions and Domain Walls",
+      "url": "http://arxiv.org/abs/2605.15197v1",
+      "published": "2026-05-14",
+      "summary": "We present a novel \\textit{gauge-invariant and minimal} formation mechanism of primordial black holes (PBHs) in first-order phase transition (FOPT) and domain walls (DW) separately. This is based on the first-order tensor perturbations, generated during FOPT from bubble collisions \\& sound waves, an",
       "source": "arXiv"
     },
     {
-      "title": "QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling",
-      "url": "http://arxiv.org/abs/2605.13833v1",
-      "published": "2026-05-13",
-      "summary": "Modeling long-range dependencies in sequential data remains a central challenge in machine learning. Transformers address this challenge through attention mechanisms, but their quadratic complexity with respect to sequence length limits scalability to long contexts. State-space models (SSMs) provide",
+      "title": "VGGT-$\u03a9$",
+      "url": "http://arxiv.org/abs/2605.15195v1",
+      "published": "2026-05-14",
+      "summary": "Recent feed-forward reconstruction models, such as VGGT, have proven competitive with traditional optimization-based reconstructors while also providing geometry-aware features useful for other tasks. Here, we show that the quality of these models scales predictably with model and data size. We do s",
       "source": "arXiv"
     },
     {
-      "title": "Combining moment matrices, symmetric extension, and Lov\u00e1sz theta: $\u03a6_{\\text{E8}}$ is entangled",
-      "url": "http://arxiv.org/abs/2605.13832v1",
-      "published": "2026-05-13",
-      "summary": "We solve an open problem in entanglement theory posed by Yu et al., {\\it Nature Communications 12, 1012 (2021)}. The problem is to show, via an entanglement witness, that the $14$-qubit state $\u03a6_{\\text{E8}}$ is entangled. Inspired by a method from quantum codes, we combine symmetric extension with m",
+      "title": "Non-Invertible Symmetries on Tensor-Product Hilbert Spaces and Quantum Cellular Automata",
+      "url": "http://arxiv.org/abs/2605.15194v1",
+      "published": "2026-05-14",
+      "summary": "We investigate realizations of (1+1)-dimensional fusion category symmetries on tensor-product Hilbert spaces, allowing for mixing with quantum cellular automata (QCAs). It was argued recently that any such realizable symmetry must be weakly integral. We develop a systematic analysis of QCA-refined r",
       "source": "arXiv"
     },
     {
-      "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
-      "url": "http://arxiv.org/abs/2605.13831v1",
-      "published": "2026-05-13",
-      "summary": "Long-context modeling is becoming a core capability of modern large vision-language models (LVLMs), enabling sustained context management across long-document understanding, video analysis, and multi-turn tool use in agentic workflows. Yet practical training recipes remain insufficiently explored, p",
+      "title": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
+      "url": "http://arxiv.org/abs/2605.15193v1",
+      "published": "2026-05-14",
+      "summary": "Latent flow matching for image generation usually transports Gaussian noise to variational autoencoder latents along linear paths. Both endpoints, however, concentrate in thin spherical shells, and a Euclidean chord leaves those shells even when preprocessing aligns their radii. By decomposing each ",
       "source": "arXiv"
     },
     {
-      "title": "Graphs of Hecke operators in mixed ramification",
-      "url": "http://arxiv.org/abs/2605.13824v1",
-      "published": "2026-05-13",
-      "summary": "We study Hecke operators on moduli spaces of ramified $G$-bundles using the combinatorial language of Hecke graphs. We introduce a general notion of $\\mathcal H$-ramification in the spirit of parahoric ramification, which depends on a choice of a divisor and subgroups of $G$ at every point of the di",
+      "title": "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO",
+      "url": "http://arxiv.org/abs/2605.15190v1",
+      "published": "2026-05-14",
+      "summary": "Causal autoregressive video diffusion models support real-time streaming generation by extrapolating future chunks from previously generated content. Distilling such generators from high-fidelity bidirectional teachers yields competitive few-step models, yet a persistent gap between the history dist",
       "source": "arXiv"
     },
     {
-      "title": "Stability analysis of Richardson models with delay for confrontation between two countries",
-      "url": "http://arxiv.org/abs/2605.13823v1",
-      "published": "2026-05-13",
-      "summary": "This article proposes a non-autonomous mathematical model with delay for confrontation between two countries, and examines the stability of its equilibrium state. Our criteria for stability take into account the influence of the factor of hostility between countries. For the autonomous case, the asy",
+      "title": "Articraft: An Agentic System for Scalable Articulated 3D Asset Generation",
+      "url": "http://arxiv.org/abs/2605.15187v1",
+      "published": "2026-05-14",
+      "summary": "A bottleneck in learning to understand articulated 3D objects is the lack of large and diverse datasets. In this paper, we propose to leverage large language models (LLMs) to close this gap and generate articulated assets at scale. We reduce the problem of generating an articulated 3D asset to that ",
       "source": "arXiv"
     },
     {
-      "title": "Harnessing Agentic Evolution",
-      "url": "http://arxiv.org/abs/2605.13821v1",
-      "published": "2026-05-13",
-      "summary": "Agentic evolution has emerged as a powerful paradigm for improving programs, workflows, and scientific solutions by iteratively generating candidates, evaluating them, and using feedback to guide future search. However, existing methods are typically instantiated either as fixed hand-designed proced",
+      "title": "Quantitative Video World Model Evaluation for Geometric-Consistency",
+      "url": "http://arxiv.org/abs/2605.15185v1",
+      "published": "2026-05-14",
+      "summary": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video evaluation pipelines rely heavily on human judgment or learned graders, which can be subjective and wea",
       "source": "arXiv"
     },
     {
-      "title": "OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation",
-      "url": "http://arxiv.org/abs/2605.13815v1",
-      "published": "2026-05-13",
-      "summary": "LiDAR scene generation is increasingly important for scalable simulation and synthetic data creation, especially under diverse sensing conditions that are costly to capture at scale. Typically, diffusion-based LiDAR generators are developed under single-domain settings, requiring separate models for",
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "url": "http://arxiv.org/abs/2605.15184v1",
+      "published": "2026-05-14",
+      "summary": "Recent advances in Large Language Model (LLM) agents have enabled complex agentic workflows where models autonomously retrieve information, call tools, and reason over large corpora to complete tasks on behalf of users. Despite the growing adoption of retrieval-augmented generation (RAG) in agentic ",
       "source": "arXiv"
     },
     {
-      "title": "Emergency Vehicle Preemption Strategies using Machine Learning to Optimize Traffic Operations",
-      "url": "http://arxiv.org/abs/2605.13814v1",
-      "published": "2026-05-13",
-      "summary": "Emergency response vehicles (ERVs), such as fire trucks, operate to save lives and mitigate property damage. Emergency vehicle preemption (EVP) is typically implemented to provide the right-of-way to ERVs by giving green signals as they approach signalized intersections along their routes. EVP opera",
+      "title": "Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video",
+      "url": "http://arxiv.org/abs/2605.15182v1",
+      "published": "2026-05-14",
+      "summary": "Camera-controlled video generation has made substantial progress, enabling generated videos to follow prescribed viewpoint trajectories. However, existing methods usually learn camera-specific conditioning through camera encoders, control branches, or attention and positional-encoding modifications,",
       "source": "arXiv"
     },
     {
-      "title": "Photometric metallicity of Galactic RR Lyrae stars in the Gaia DR3 era",
-      "url": "http://arxiv.org/abs/2605.13811v1",
-      "published": "2026-05-13",
-      "summary": "We present a new, calibrated $G$-band relationship between pulsation period $P$, Fourier parameter $\u03c6_{31}$, and metallicity [Fe/H] for galactic RR Lyrae stars from the Gaia survey. A set of 72 fundamental mode RR Lyrae stars were identified for deriving the relation in the $G$-band, after visual ex",
+      "title": "Wormholes and Averaging over N",
+      "url": "http://arxiv.org/abs/2605.15180v1",
+      "published": "2026-05-14",
+      "summary": "The gravitational path integral produces an asymptotic expansion in $G_N$, a fact which is puzzling in the case of observables that are expected to fluctuate wildly. Wormholes appear to compute ensemble averages of functions of such observables, though in typical constructions of AdS/CFT, there are ",
       "source": "arXiv"
     },
     {
-      "title": "Min-Max Optimization Requires Exponentially Many Queries",
-      "url": "http://arxiv.org/abs/2605.13806v1",
-      "published": "2026-05-13",
-      "summary": "We study the query complexity of min-max optimization of a nonconvex-nonconcave function $f$ over $[0,1]^d \\times [0,1]^d$. We show that, given oracle access to $f$ and to its gradient $\\nabla f$, any algorithm that finds an $\\varepsilon$-approximate stationary point must make a number of queries th",
+      "title": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing",
+      "url": "http://arxiv.org/abs/2605.15179v1",
+      "published": "2026-05-14",
+      "summary": "Scaling Scientific Machine Learning (SciML) toward universal foundation models is bottlenecked by negative transfer: the simultaneous co-training of disparate partial differential equation (PDE) regimes can induce gradient conflict, unstable optimization, and plasticity loss in dense neural operator",
       "source": "arXiv"
     },
     {
-      "title": "Tidal disruption of a low-mass star in an active galactic nucleus as the origin of the PS16dtm outburst",
-      "url": "http://arxiv.org/abs/2605.13799v1",
-      "published": "2026-05-13",
-      "summary": "The event PS16dtm, which occured in the center of the Narrow Line Seyfert 1 (NLS1) galaxy SDSS J015804.75-005221.8 (z = 0.080440), is one of the few candidates for a tidal disruption event in an already-acretting active galactic nucleus (AGN). We aim to shed light on the character of the tidal disru",
+      "title": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
+      "url": "http://arxiv.org/abs/2605.15178v1",
+      "published": "2026-05-14",
+      "summary": "We introduce SANA-WM, an efficient 2.6B-parameter open-source world model natively trained for one-minute generation, synthesizing high-fidelity, 720p, minute-scale videos with precise camera control. SANA-WM achieves visual quality comparable to large-scale industrial baselines such as LingBot-Worl",
       "source": "arXiv"
     },
     {
-      "title": "VoxCor: Training-Free Volumetric Features for Multimodal Voxel Correspondence",
-      "url": "http://arxiv.org/abs/2605.13798v1",
-      "published": "2026-05-13",
-      "summary": "Cross-modal 3D medical image analysis requires voxelwise representations that remain anatomically consistent across imaging contrasts, scanners, and acquisition protocols. Recent work has shown that frozen 2D Vision Transformer (ViT) foundation models can support such representations, but typical pi",
+      "title": "Matching higher-dimensional operators at finite temperature for general models",
+      "url": "http://arxiv.org/abs/2605.15176v1",
+      "published": "2026-05-14",
+      "summary": "High-temperature dimensional reduction provides a systematic effective field theory framework for studying finite-temperature thermodynamics and cosmological phase transitions. While the matching of super-renormalizable operators in the resulting three-dimensional effective theories is well establis",
       "source": "arXiv"
     }
   ]
